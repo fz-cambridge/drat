@@ -1,0 +1,4 @@
+Package: R2BGLiMS
+Version: 0.1-07-02-2020
+Imports: jsonlite
+License: GPL (>= 2)
