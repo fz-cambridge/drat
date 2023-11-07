@@ -6,3 +6,10 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: R2BGLiMS
+Version: 0.1-07-02-2020
+Imports: jsonlite
+License: GPL (>= 2)
+MD5sum: 91aab65c3f7861faddef2ecdb214db96
+NeedsCompilation: no
